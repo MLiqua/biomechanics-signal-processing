@@ -32,9 +32,29 @@ biomechanics-signal-processing/
 └── .gitignore
 
 # GENERATED GRAPHICS
-### Raw
-![Raw vs Filtered](plots/raw_force_data.png)
 
+### 1. Raw Force-Time Data
+![Raw Force Data](Plots/raw_force_data.png)
+
+---
+
+### 2. Force Slope (Rate of Change)
+![Raw Force Slope](Plots/raw_force_slope.png)
+
+---
+
+### 3. Moving Average Smoothing (Window = 3)
+![Moving Average Smoothing](Plots/moving_average_smoothing.png)
+
+---
+
+### 4. Butterworth Low-Pass Filter (8 Hz, 4th Order)
+![Butterworth Smoothing](Plots/butterworth_smoothing.png)
+
+---
+
+### 5. Heel Strike & Toe-Off Detection (Filtered Force)
+![Filtered Force Events](Plots/filtered_force_events.png)
 
 
 # LICENSE
