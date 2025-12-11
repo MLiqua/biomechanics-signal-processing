@@ -59,3 +59,9 @@ biomechanics-signal-processing/
 
 # LICENSE
 This project is licensed under the MIT License.
+
+## Future Work
+- Support for additional sensor types (e.g., IMU data)
+- Real-time streaming or live plotting
+- Automated parameter tuning for Butterworth cutoff
+- Integration with control systems
