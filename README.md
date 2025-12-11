@@ -20,7 +20,7 @@ This mirrors standard practice used in biomechanics research labs and wearable r
 # REPO STRUCTURE
 biomechanics-signal-processing/
 │
-├── data/
+├── CSVdata/
 │   └── fsr.csv
 │
 ├── src/
