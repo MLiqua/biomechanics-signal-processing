@@ -22,19 +22,18 @@ biomechanics-signal-processing/
 │
 ├── CSVdata/
 │   └── fsr.csv
-│
+|
 ├── src/
-│   ├── data_loading.py
-│   ├── filters.py
-│   ├── gait_events.py
-│   └── main.py
-│
+│   └── force_signal_analysis.py
+|
 ├── plots/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
 
 # GENERATED GRAPHICS
+### Raw
+![Raw vs Filtered](plots/raw_force_data.png)
 
 
 
